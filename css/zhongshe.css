@@ -1,0 +1,23 @@
+@charset "utf-8";
+.zo1{
+	margin:5em auto;
+	background: #F1F1F1; 
+	max-width:1200px;
+	box-sizing: border-box;
+	padding: 3em;
+}
+.zo1>p{
+	color: #222;
+	font-size: 20px;
+	letter-spacing: 2px;
+	padding-bottom: 2px;
+}
+.zo1>form{
+	border: 1px solid #C0C0C0;
+}
+#denglu_one{
+	margin-top: 3em;
+}
+#denglu_one input{
+	width: 99.7%;
+}

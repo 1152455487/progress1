@@ -1,0 +1,19 @@
+@charset "utf-8";
+html{
+	font: normal normal 14px "微软雅黑","宋体",helvetica,Helvetica,Arial,sans-serif,sans-serif;
+	}
+body,ul,li,p,a,h1,h2,h3,h4,h5{
+	color: black;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	}
+a:hover{
+	cursor: pointer !important;
+}
+span,h3:hover{
+	cursor: default;
+}
+ 
+
